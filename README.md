@@ -81,18 +81,16 @@ A YouTube Shorts / TikTok channel about local AI tools, self-hosting, and the ch
 ### Run it Local Channel
 - **Format:** YouTube Shorts / TikTok (under 60s)
 - **Content:** AI tool experiments, local AI vs cloud, infrastructure fails
-- **Aesthetic:** Cyber-noor visuals, quick cuts, meme-adjacent but technically solid
+- **Aesthetic:** Cyber-noir visuals, quick cuts, meme-adjacent but technically solid
 - **Audio:** MusicGen for soundtrack, Whisper for captions
 
 ### Video Pipeline
 ```
-HyperFrames (rendering) → Whisper (transcription) → Captions (cyber-noor style) → Export
+HyperFrames (rendering) → Whisper (transcription) → Captions (cyber-noir style) → Export
 ```
 
 ## 📈 Statistics
 
-<!--
-<!-- Uncomment and regenerate with `gh stats generate` after pushing -->
 | Metric | Value |
 |--------|-------|
 | Total Repos | 10 |
