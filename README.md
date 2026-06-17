@@ -11,9 +11,9 @@ Red teamer, systems engineer, and self-hosted everything enthusiast. I build AI 
 ## 🏗️ Active Projects
 
 ### Sovereign Spire
-**[GitHub](https://github.com/CocaKova/SovereignSpire)** — JARVIS-style cyber-noor dashboard
+**[GitHub](https://github.com/CocaKova/SovereignSpire)** — JARVIS-style cyber-noir dashboard
 
-A fully integrated command center that pulls data from Proxmox VMs, Home Assistant, Tesla, and financial APIs into a single cyber-noor UI. Real-time monitoring, financial cockpit, and infrastructure management — all in one dashboard.
+A fully integrated command center that pulls data from Proxmox VMs, Home Assistant, Tesla, and financial APIs into a single cyber-noir UI. Real-time monitoring, financial cockpit, and infrastructure management — all in one dashboard.
 
 **Stack:** React + Express + WebSocket + Proxmox API + Home Assistant + Plaid
 
