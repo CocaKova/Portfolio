@@ -1,0 +1,31 @@
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets (safety net)
+*.pem
+*.key
+*.secret
+.env
+
+# Build artifacts
+*.tar.gz
+*.zip
