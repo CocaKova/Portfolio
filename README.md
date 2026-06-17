@@ -1,27 +1,15 @@
-# Jonny Kovacs — Engineer & Red Team Operator
+# @CocaKova
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-actively_building-%23f0a030?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/red_team-active-blue?style=for-the-badge" alt="Red Team">
-  <img src="https://img.shields.io/badge/local_ai-first-cyan?style=for-the-badge" alt="Local AI">
-</p>
-
-Red teamer, systems engineer, and self-hosted everything enthusiast. I build AI tools that run on my own hardware.
+Systems engineer, self-hosted enthusiast, and local AI hobbyist. Building tools that run on my own hardware.
 
 ## 🏗️ Active Projects
 
 ### Sovereign Spire
 **[GitHub](https://github.com/CocaKova/SovereignSpire)** — JARVIS-style cyber-noir dashboard
 
-A fully integrated command center that pulls data from Proxmox VMs, Home Assistant, Tesla, and financial APIs into a single cyber-noir UI. Real-time monitoring, financial cockpit, and infrastructure management — all in one dashboard.
+A fully integrated command center that pulls data from home infrastructure and smart devices into a single cyber-noir UI. Real-time monitoring, financial cockpit, and automation management — all in one dashboard.
 
 **Stack:** React + Express + WebSocket + Proxmox API + Home Assistant + Plaid
-
-<p align="center">
-  <img src="https://img.shields.io/badge/frontend-React-blue" alt="React">
-  <img src="https://img.shields.io/badge/backend-Express-green" alt="Express">
-  <img src="https://img.shields.io/badge/protocol-WebSocket-cyan" alt="WebSocket">
-</p>
 
 ### Hermes Agent
 **[GitHub](https://github.com/CocaKova/HermesAgent)** — AI assistant framework
@@ -40,16 +28,16 @@ A YouTube Shorts / TikTok channel about local AI tools, self-hosting, and the ch
 ## 🔧 Tools & Infrastructure
 
 ### Self-Hosted Stack
-- **Proxmox** — VM host (5 VMs, monitoring all)
+- **Proxmox** — VM host (monitoring all)
 - **Home Assistant** — Smart home automation
 - **AdGuard** — Network-wide DNS filtering
-- **vLLM** — Local LLM inference (Qwen3-35B)
+- **vLLM** — Local LLM inference
 - **ComfyUI** — Local image generation
 - **Open WebUI** — Local LLM interface
 - **FalkorDB** — Redis-compatible MCP cache
 
 ### Hardware
-- NVIDIA DGX Spark (128GB unified RAM, Blackwell GB10 GPU, 3.7TB NVMe)
+- Custom local AI workstation (high-performance compute, 128GB+ RAM)
 - Self-hosted everything — no cloud dependencies
 
 ## 🎮 Side Projects
@@ -89,19 +77,9 @@ A YouTube Shorts / TikTok channel about local AI tools, self-hosting, and the ch
 HyperFrames (rendering) → Whisper (transcription) → Captions (cyber-noir style) → Export
 ```
 
-## 📈 Statistics
-
-| Metric | Value |
-|--------|-------|
-| Total Repos | 10 |
-| Public Repos | 7 |
-| Languages | 6+ |
-
 ## 📫 Connect
 
 - **GitHub:** [@CocaKova](https://github.com/CocaKova)
-- **Email:** jonathan.kovacs999@gmail.com
-- **Matrix:** @jonny:silas.local
 
 ---
 
